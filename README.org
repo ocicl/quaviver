@@ -1,0 +1,9 @@
+* quaviver
+
+A portable and extensible floating point base conversion and string library
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/s-expressionists/Quaviver.git |
+| commit  | a9fe522                                              |
+| systems | quaviver                                             |
+|---------+------------------------------------------------------|
