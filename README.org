@@ -4,7 +4,7 @@ A portable and extensible floating point base conversion and string library
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/s-expressionists/Quaviver.git |
-| commit  | 9fa9346                                              |
+| commit  | d11d95e                                              |
 | systems | quaviver                                             |
 |---------+------------------------------------------------------|
   
