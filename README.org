@@ -7,4 +7,4 @@ A portable and extensible floating point base conversion and string library
 | commit  | 9fa9346                                              |
 | systems | quaviver                                             |
 |---------+------------------------------------------------------|
- 
+  
